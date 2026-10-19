@@ -178,14 +178,14 @@ My other areas of project exploration include:
   />
 </p>
 
+
 ### 📈 Contribution Activity
 
 <p align="center">
   <a href="https://github.com/scientistayat-engineer">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=scientistayat-engineer&bg_color=071426&color=C9D7E8&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
-      alt="GitHub contribution activity graph"
-      width="100%"
+      src="https://img.shields.io/badge/View-GitHub%20Contribution%20Activity-071426?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=071426"
+      alt="View GitHub contribution activity"
     />
   </a>
 </p>
