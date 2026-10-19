@@ -132,21 +132,50 @@ My other areas of project exploration include:
     <img src="https://img.shields.io/badge/Explore-All%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
   </a>
 </p>
-
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scientistayat-engineer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=scientistayat-engineer&show_icons=true&hide_border=true&bg_color=071426&title_color=00D9FF&text_color=C9D7E8&icon_color=00D9FF&include_all_commits=true"
+    alt="GitHub statistics for scientistayat-engineer"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scientistayat-engineer&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=scientistayat-engineer&layout=compact&langs_count=8&hide_border=true&bg_color=071426&title_color=00D9FF&text_color=C9D7E8"
+    alt="Most used programming languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=scientistayat-engineer&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=scientistayat-engineer&theme=tokyonight&hide_border=true&background=071426&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/scientistayat-engineer">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=scientistayat-engineer&bg_color=071426&color=C9D7E8&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
+      alt="GitHub contribution activity graph"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/scientistayat-engineer?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore-My%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore my repositories"
+    />
+  </a>
 </p>
 
 ---
