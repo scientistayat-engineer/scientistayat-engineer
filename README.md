@@ -4,6 +4,27 @@
   <img src="assets/github-banner.png" alt="Anushay Ayat Adnan — AI Developer and Aspiring AI Trainer" width="100%" />
 </p>
 
+
+<!-- ANIMATED INTRODUCTION -->
+
+<h1 align="center">
+  Hi there! 👋 I'm Anushay Ayat Adnan
+</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Python+%7C+Machine+Learning+Enthusiast;Exploring+Generative+AI+%26+RAG;Building+Intelligent+AI+Applications;Future+AI+Trainer+%26+Technical+Educator"
+    alt="Animated introduction: AI and Data Science student"
+  />
+</p>
+
+<p align="center">
+  Turning curiosity into code and ideas into intelligent solutions.
+</p>
+
+---
+
+
 <p align="center">
   <b>AI & Data Science Student | AI Developer | Aspiring AI Trainer</b>
 </p>
