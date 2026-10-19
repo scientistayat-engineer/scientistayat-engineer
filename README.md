@@ -242,6 +242,15 @@ I'm interested in connecting with developers, fellow students, mentors, educator
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/scientistayat-engineer?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Projects-00B8D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
+  </a>
+  <a href="https://github.com/scientistayat-engineer?tab=stars">
+    <img src="https://img.shields.io/badge/My-GitHub%20Stars-6C5CE7?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub stars" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
