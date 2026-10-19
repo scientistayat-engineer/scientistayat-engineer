@@ -157,12 +157,14 @@ My other areas of project exploration include:
 
 ## 📊 GitHub Statistics & Activity
 
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=scientistayat-engineer&show_icons=true&hide_border=true&bg_color=071426&title_color=00D9FF&text_color=C9D7E8&icon_color=00D9FF&include_all_commits=true"
-    alt="GitHub statistics for scientistayat-engineer"
+    src="https://github-readme-stats.vercel.app/api?username=scientistayat-engineer&show_icons=true&hide_border=true&bg_color=071426&title_color=00D9FF&text_color=C9D7E8&icon_color=00D9FF"
+    alt="GitHub statistics"
   />
 </p>
+
 
 <p align="center">
   <img
